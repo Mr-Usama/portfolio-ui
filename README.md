@@ -1,2 +1,2 @@
-# portfolio-ui
+# Inspired by UpLabs
 Portfolio Page created in Flutter.
